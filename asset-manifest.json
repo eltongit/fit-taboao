@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.63aa7850.css",
+    "main.js": "./static/js/main.c2bebd99.js",
+    "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
+    "static/media/planta_tenda.pdf": "./static/media/planta_tenda.317d83ad2298b808a37f.pdf",
+    "static/media/regras.pdf": "./static/media/regras.317d83ad2298b808a37f.pdf",
+    "static/media/MyImage.webp": "./static/media/MyImage.0a3da6d59e27c46ba048.webp",
+    "static/media/mixkit-fast-double-click-on-mouse-275.mp3": "./static/media/mixkit-fast-double-click-on-mouse-275.e758e4b03a23060754fe.mp3",
+    "static/media/RobotoSlab-Black.ttf": "./static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
+    "static/media/RobotoSlab-Bold.ttf": "./static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
+    "static/media/RobotoSlab-Regular.ttf": "./static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
+    "static/media/Fit.jpg": "./static/media/Fit.7232605b1cb895302e25.jpg",
+    "static/media/GildaDisplay-Regular.ttf": "./static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
+    "index.html": "./index.html",
+    "main.63aa7850.css.map": "./static/css/main.63aa7850.css.map",
+    "main.c2bebd99.js.map": "./static/js/main.c2bebd99.js.map",
+    "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63aa7850.css",
+    "static/js/main.c2bebd99.js"
+  ]
+}
