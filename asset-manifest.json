@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.63aa7850.css",
-    "main.js": "./static/js/main.c2bebd99.js",
+    "main.js": "./static/js/main.9a0a8f37.js",
     "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
     "static/media/planta_tenda.pdf": "./static/media/planta_tenda.317d83ad2298b808a37f.pdf",
     "static/media/regras.pdf": "./static/media/regras.317d83ad2298b808a37f.pdf",
@@ -14,11 +14,11 @@
     "static/media/GildaDisplay-Regular.ttf": "./static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
     "index.html": "./index.html",
     "main.63aa7850.css.map": "./static/css/main.63aa7850.css.map",
-    "main.c2bebd99.js.map": "./static/js/main.c2bebd99.js.map",
+    "main.9a0a8f37.js.map": "./static/js/main.9a0a8f37.js.map",
     "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63aa7850.css",
-    "static/js/main.c2bebd99.js"
+    "static/js/main.9a0a8f37.js"
   ]
 }
