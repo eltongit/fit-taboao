@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.b3a0d9e4.css",
-    "main.js": "./static/js/main.1e95c5a5.js",
+    "main.css": "./static/css/main.9cb553bb.css",
+    "main.js": "./static/js/main.071008bb.js",
     "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
     "static/media/planta_tenda.pdf": "./static/media/planta_tenda.317d83ad2298b808a37f.pdf",
     "static/media/regras.pdf": "./static/media/regras.317d83ad2298b808a37f.pdf",
@@ -9,16 +9,17 @@
     "static/media/RobotoSlab-Black.ttf": "./static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
     "static/media/RobotoSlab-Bold.ttf": "./static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
     "static/media/RobotoSlab-Regular.ttf": "./static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
-    "static/media/Fit.jpg": "./static/media/Fit.7232605b1cb895302e25.jpg",
+    "static/media/foto_fit_2.jpg": "./static/media/foto_fit_2.7232605b1cb895302e25.jpg",
     "static/media/GildaDisplay-Regular.ttf": "./static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
     "static/media/manual_convivencia.pdf": "./static/media/manual_convivencia.d18b0e64459a6b3cd0c0.pdf",
+    "static/media/whatsapp.webp": "./static/media/whatsapp.be17d72b4f248d588ba6.webp",
     "index.html": "./index.html",
-    "main.b3a0d9e4.css.map": "./static/css/main.b3a0d9e4.css.map",
-    "main.1e95c5a5.js.map": "./static/js/main.1e95c5a5.js.map",
+    "main.9cb553bb.css.map": "./static/css/main.9cb553bb.css.map",
+    "main.071008bb.js.map": "./static/js/main.071008bb.js.map",
     "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3a0d9e4.css",
-    "static/js/main.1e95c5a5.js"
+    "static/css/main.9cb553bb.css",
+    "static/js/main.071008bb.js"
   ]
 }
