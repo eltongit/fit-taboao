@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c650f972.css",
-    "main.js": "./static/js/main.ce3b2b77.js",
+    "main.css": "./static/css/main.a8d05663.css",
+    "main.js": "./static/js/main.027291cc.js",
     "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
     "static/media/planta_tenda.pdf": "./static/media/planta_tenda.317d83ad2298b808a37f.pdf",
     "static/media/regras.pdf": "./static/media/regras.317d83ad2298b808a37f.pdf",
@@ -14,12 +14,12 @@
     "static/media/manual_convivencia.pdf": "./static/media/manual_convivencia.d18b0e64459a6b3cd0c0.pdf",
     "static/media/whatsapp.webp": "./static/media/whatsapp.be17d72b4f248d588ba6.webp",
     "index.html": "./index.html",
-    "main.c650f972.css.map": "./static/css/main.c650f972.css.map",
-    "main.ce3b2b77.js.map": "./static/js/main.ce3b2b77.js.map",
+    "main.a8d05663.css.map": "./static/css/main.a8d05663.css.map",
+    "main.027291cc.js.map": "./static/js/main.027291cc.js.map",
     "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c650f972.css",
-    "static/js/main.ce3b2b77.js"
+    "static/css/main.a8d05663.css",
+    "static/js/main.027291cc.js"
   ]
 }
