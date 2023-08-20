@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "./static/css/main.a8d05663.css",
-    "main.js": "./static/js/main.3880acdc.js",
+    "main.css": "./static/css/main.0a3be1ca.css",
+    "main.js": "./static/js/main.c6222e2f.js",
     "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
     "static/media/planta_tenda.pdf": "./static/media/planta_tenda.317d83ad2298b808a37f.pdf",
     "static/media/regras.pdf": "./static/media/regras.317d83ad2298b808a37f.pdf",
     "static/media/click-on-mouse.mp3": "./static/media/click-on-mouse.e758e4b03a23060754fe.mp3",
+    "static/media/whatsapp.webp": "./static/media/whatsapp.f5a000a809e8cd4eb676.webp",
     "static/media/RobotoSlab-Black.ttf": "./static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
     "static/media/RobotoSlab-Bold.ttf": "./static/media/RobotoSlab-Bold.aea772dee2141c9b0792.ttf",
     "static/media/RobotoSlab-Regular.ttf": "./static/media/RobotoSlab-Regular.7ff9da9c484d15185b5b.ttf",
     "static/media/foto_fit_2.jpg": "./static/media/foto_fit_2.7232605b1cb895302e25.jpg",
     "static/media/GildaDisplay-Regular.ttf": "./static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
     "static/media/manual_convivencia.pdf": "./static/media/manual_convivencia.d18b0e64459a6b3cd0c0.pdf",
-    "static/media/whatsapp.webp": "./static/media/whatsapp.a3c5118cb5d0ae9167c8.webp",
     "index.html": "./index.html",
-    "main.a8d05663.css.map": "./static/css/main.a8d05663.css.map",
-    "main.3880acdc.js.map": "./static/js/main.3880acdc.js.map",
+    "main.0a3be1ca.css.map": "./static/css/main.0a3be1ca.css.map",
+    "main.c6222e2f.js.map": "./static/js/main.c6222e2f.js.map",
     "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a8d05663.css",
-    "static/js/main.3880acdc.js"
+    "static/css/main.0a3be1ca.css",
+    "static/js/main.c6222e2f.js"
   ]
 }
