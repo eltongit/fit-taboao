@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "./static/css/main.0a3be1ca.css",
-    "main.js": "./static/js/main.9fbe2aea.js",
+    "main.js": "./static/js/main.39539f96.js",
     "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
-    "static/media/planta_tenda.pdf": "./static/media/planta_tenda.317d83ad2298b808a37f.pdf",
+    "static/media/planta_tenda.pdf": "./static/media/planta_tenda.6570195d3e52ac85f30c.pdf",
     "static/media/click-on-mouse.mp3": "./static/media/click-on-mouse.e758e4b03a23060754fe.mp3",
     "static/media/whatsapp.webp": "./static/media/whatsapp.f5a000a809e8cd4eb676.webp",
     "static/media/RobotoSlab-Black.ttf": "./static/media/RobotoSlab-Black.b1eefbae7b352cda1c3a.ttf",
@@ -15,11 +15,11 @@
     "static/media/manual_convivencia.pdf": "./static/media/manual_convivencia.d18b0e64459a6b3cd0c0.pdf",
     "index.html": "./index.html",
     "main.0a3be1ca.css.map": "./static/css/main.0a3be1ca.css.map",
-    "main.9fbe2aea.js.map": "./static/js/main.9fbe2aea.js.map",
+    "main.39539f96.js.map": "./static/js/main.39539f96.js.map",
     "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a3be1ca.css",
-    "static/js/main.9fbe2aea.js"
+    "static/js/main.39539f96.js"
   ]
 }
