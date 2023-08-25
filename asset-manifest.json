@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.0a3be1ca.css",
-    "main.js": "./static/js/main.ba31145f.js",
+    "main.js": "./static/js/main.f7705bc8.js",
     "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
     "static/media/planta_tenda.pdf": "./static/media/planta_tenda.6570195d3e52ac85f30c.pdf",
     "static/media/click-on-mouse.mp3": "./static/media/click-on-mouse.e758e4b03a23060754fe.mp3",
@@ -15,11 +15,11 @@
     "static/media/manual_convivencia.pdf": "./static/media/manual_convivencia.d18b0e64459a6b3cd0c0.pdf",
     "index.html": "./index.html",
     "main.0a3be1ca.css.map": "./static/css/main.0a3be1ca.css.map",
-    "main.ba31145f.js.map": "./static/js/main.ba31145f.js.map",
+    "main.f7705bc8.js.map": "./static/js/main.f7705bc8.js.map",
     "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a3be1ca.css",
-    "static/js/main.ba31145f.js"
+    "static/js/main.f7705bc8.js"
   ]
 }
