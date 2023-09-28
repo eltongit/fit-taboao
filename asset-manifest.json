@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.6b3b5692.css",
-    "main.js": "./static/js/main.bf2ef88f.js",
+    "main.css": "./static/css/main.eccd04d5.css",
+    "main.js": "./static/js/main.eba1001e.js",
     "static/js/787.4231b11b.chunk.js": "./static/js/787.4231b11b.chunk.js",
     "static/media/planta_tenda.pdf": "./static/media/planta_tenda.6570195d3e52ac85f30c.pdf",
     "static/media/click-on-mouse.mp3": "./static/media/click-on-mouse.e758e4b03a23060754fe.mp3",
@@ -13,13 +13,14 @@
     "static/media/foto_fit_2.jpg": "./static/media/foto_fit_2.7232605b1cb895302e25.jpg",
     "static/media/GildaDisplay-Regular.ttf": "./static/media/GildaDisplay-Regular.f712cdf2015640c8cc1e.ttf",
     "static/media/manual_convivencia.pdf": "./static/media/manual_convivencia.d18b0e64459a6b3cd0c0.pdf",
+    "static/media/edital.pdf": "./static/media/edital.717839847a2963583e31.pdf",
     "index.html": "./index.html",
-    "main.6b3b5692.css.map": "./static/css/main.6b3b5692.css.map",
-    "main.bf2ef88f.js.map": "./static/js/main.bf2ef88f.js.map",
+    "main.eccd04d5.css.map": "./static/css/main.eccd04d5.css.map",
+    "main.eba1001e.js.map": "./static/js/main.eba1001e.js.map",
     "787.4231b11b.chunk.js.map": "./static/js/787.4231b11b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b3b5692.css",
-    "static/js/main.bf2ef88f.js"
+    "static/css/main.eccd04d5.css",
+    "static/js/main.eba1001e.js"
   ]
 }
